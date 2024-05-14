@@ -25,7 +25,7 @@ title = 'Sketchy Stuff'
 
 [params.gallerydeluxe]
     shuffle     = false
-    reverse     = true
+    reverse     = false
     enable_exif = false
 
 [module]
