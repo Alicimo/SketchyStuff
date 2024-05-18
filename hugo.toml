@@ -11,6 +11,7 @@ title = 'Sketchy Stuff'
         maxAge = "4320h"                     # 6 months.
 
 [params]
+    summaryLength = 20
 
     [params.author]
         name        = "Kelvin Martin"
@@ -20,8 +21,6 @@ title = 'Sketchy Stuff'
     [params.galleriesdeluxe]
         # One of dartsass or libsass.
         sass_transpiler = "dartsass"
-        [params.galleriesdeluxe.sassvars]
-            color_background = "#1d1e2c"
 
 [params.gallerydeluxe]
     shuffle     = false

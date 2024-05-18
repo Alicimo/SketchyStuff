@@ -1,0 +1,16 @@
+<div>
+    <div>
+      All artwork &copy;
+      {{ with site.Params.author }}
+        {{ if and .name .email }}
+          <a href="mailto:{{ .email }}">{{ .name }}</a>
+        {{ else }}
+          {{ .name }}
+        {{ end }}
+      {{ end }}
+      {{ now.Year }}.
+    </div>
+    <div>
+      Website produced by <a href="https://www.alistair-martin.com/">Alistair Martin</a>
+    </div>
+  </div>
