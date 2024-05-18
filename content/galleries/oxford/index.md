@@ -1,5 +1,5 @@
 ---
-title: Oxford
+title: Our trip down to Oxford 
 categories: [travel, architecture]
 date: 2024-05-01
 summary: The end of April so us on a long road trip down to Oxford to meet up with Hazel's friends from university
