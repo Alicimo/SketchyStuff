@@ -62,12 +62,6 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"       
-      - name: CNAME
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          cname: kelvin-martin.com
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
