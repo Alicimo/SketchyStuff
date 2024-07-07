@@ -2,10 +2,10 @@
 title:  Reflections on the Netherlands  
 categories: [travel, architecture]
 date: 2024-06-01
-summary: I’m always slightly,surprised that Scottish people don’t seem to know about the Netherlands, unless
+summary: I’m always slightly, surprised that Scottish people don’t seem to know about the Netherlands, unless
 ---
 
-I’m always slightly,surprised that Scottish people don’t seem to know about the Netherlands, unless it’s just for a stag or hen do ~ the ‘join ultimate party’ website shouts: “WHY AMSTERDAM IS THE BEST DESTINATION FOR STAG PARTIES IN THE WORLD!”.
+I’m always slightly, surprised that Scottish people don’t seem to know about the Netherlands, unless it’s just for a stag or hen do ~ the ‘join ultimate party’ website shouts: “WHY AMSTERDAM IS THE BEST DESTINATION FOR STAG PARTIES IN THE WORLD!”.
 
 It’s a pity. There’s more to the Netherlands than that. The Netherlands are so easy to get to from Scotland, with cheap flights and a car transport via the ferry from Newcastle. Transport links to all over Europe are good as well. It therefore made a really good destination for us to do a trial run for a long Euro-rail trip, travelling sans car with a rucksack and a small pull along suitcase. Holland is full of things to do, far beyond the capital, museums, art, real good food, and with a load of buildings on my bucket list as well - this was a good chance to tick a whole load off.
 
