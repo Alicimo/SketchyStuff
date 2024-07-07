@@ -3,6 +3,8 @@ title: About
 layout: about
 ---
 
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+
 Welcome to the website of Kelvin Martin, an artist with a penchant for drawing buildings, some pretty, some unusual, quite a lot that are historic, and all hopefully that are very interesting. Every building, no matter how modest, how new or old, has a story to tell, rooted in it’s surroundings and in it’s social history. His task is to put all that together in a simple and straightforward way; and that after all is the purpose of illustration.
 
 Kelvin actually trained as a Graphic Designer and Illustrator more than 40 years ago, at Brighton Polytechnic (now the University of Brighton School of Art and Media). After that he got a little distracted and lurched sideways into youth work and education. Which explains why he has both a degree in Illustration and a Masters Degree in Education.
@@ -16,3 +18,5 @@ Kelvin hopes that you enjoy everything that’s on here, and if it makes you wan
 Finally thank you to Hazel, his wife of over 40 years for her tolerance when he has decided that he really does need to draw a tatty church in some dreadful part of a small town, and for her patience over a coffee (and cake) in a tiny cafe whilst he gets a sketch down.
 
 By the way, this really isn’t about commissions, but if you are looking for something, you can get me via contact@kelvin-martin.com, and we can see if I can help.
+
+
