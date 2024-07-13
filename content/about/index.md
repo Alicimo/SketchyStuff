@@ -17,6 +17,8 @@ Kelvin hopes that you enjoy everything that’s on here, and if it makes you wan
 
 Finally thank you to Hazel, his wife of over 40 years for her tolerance when he has decided that he really does need to draw a tatty church in some dreadful part of a small town, and for her patience over a coffee (and cake) in a tiny cafe whilst he gets a sketch down.
 
-By the way, this really isn’t about commissions, but if you are looking for something, you can get me via contact@kelvin-martin.com, and we can see if I can help.
+By the way, this really isn’t about commissions, but if you are looking for something, you can get Kelvin via <a href="contact@kelvin-martin.com">contact@kelvin-martin.com</a>
 
+Kelvin Martin
 
+PS the portrait photo is not edited in any way, that’s just Kelvin in front of a poster advertising ‘ Girl with a Pearl Earring’ by Vermeer, c.1655, the star attraction of the Mauritshuis in Den Haag
