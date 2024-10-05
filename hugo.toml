@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Sketchy Stuff'
+title = 'Kelvin Martin’s Sketchy Stuff'
 
 [taxonomies]
     category = 'categories'
