@@ -5,5 +5,6 @@ pkgs.mkShell rec {
     pkgs.hugo
     pkgs.go
     pkgs.dart-sass
+    pkgs.git-lfs
   ];
 }
