@@ -15,7 +15,7 @@ title = 'Kelvin Martin’s Sketchy Stuff'
 
     [params.author]
         name        = "Kelvin Martin"
-        email       = "contact@alistair-martin.com"
+        email       = "contact@kelvin-martin.com"
         description = "A gallery website to display the work of Kelvin Martin."
 
     [params.galleriesdeluxe]
