@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $image := .Resources.Get "portrait.jpg" }}
+{{ $image := .Resources.Get "portrait.webp" }}
 {{ $image := $image.Resize "x400" }}
 <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" style="width:auto; margin:20px" >
 <div class="markdown-body">
