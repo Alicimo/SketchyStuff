@@ -1,6 +1,6 @@
 ---
 title: A cruise through the South of France
-categories: [travel, architecture]
+categories: [travel, architecture, cruise, roman, religious]
 date: 2025-02-27
 summary: I’ve long dreaded a cruise. I hated the idea of being crammed on a vast boat overwhelming some poor little Mediterranean port,
 ---

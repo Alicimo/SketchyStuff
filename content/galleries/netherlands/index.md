@@ -1,6 +1,6 @@
 ---
 title:  Reflections on the Netherlands  
-categories: [travel, architecture]
+categories: [travel, architecture, modern]
 date: 2024-06-01
 summary: I’m always slightly, surprised that Scottish people don’t seem to know about the Netherlands, unless
 ---

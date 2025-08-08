@@ -1,6 +1,6 @@
 ---
 title: A week in Tavira
-categories: [travel, architecture]
+categories: [travel, architecture, religious, roman]
 date: 2025-02-28
 summary: A huge number of Brits are wedded to their winter in the Algarve area of (it’s along the southern coastal strip of the country), which
 ---
