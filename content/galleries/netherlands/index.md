@@ -20,23 +20,23 @@ A few top tips:
 
 So, here we go with a few drawings from our June trip.
 
-### Zaanse Schans 
+## Zaanse Schans 
 
 Well, we had to start with a windmill. This a not really a Museum, more a collection of windmills and other historic buildings that have been collected into one place. Many are still lived in, many of the windmills still have working functions - spice mills, a paint mill, and my personal favourite, a sawmill entirely reconstructed from plans a few years ago, by a group of middle aged men whose views on health and safety are quite relaxed.
 
-### Rietveld Schroderhuis, Utrecht 
+## Rietveld Schroderhuis, Utrecht 
 
 Built in 1924 by architect and furniture designer Gerrit Rietveld for client Truus Schroder.  A famous little house, a UNESCO heritage site, a groundbreaker. On my bucket list. I had seen the house in photos, but nothing prepares you for how small it is in real life, and how strikingly different it is from anything around it, or being built at the time. The sliding doors upstairs which turn into a living room and two bedrooms into a big social space in about two minutes is amazing. The planning authority just didn’t get the concept, so the whole of the upstairs was listed as an attic.
 
 On the downside, it required a great discipline to live in, wasn’t great for the children, and I could never have lived in it.
 
-### Hilversum Town Hall
+## Hilversum Town Hall
 
 Another one ticked off my bucket list and another UNESCO World Heritage Listing. Completed in 1931 by architect Willem Marinus Dudok. Not just a remarkable set of spaces beautifully organised and crafted, but also very influential. The shapes will be vaguely familiar to those like me who were brought up in North London and will know of Charles Holden and his Piccadilly Line London Underground Stations.
 
 Thanks to Sem, the young architect who showed us around and got me to the top of the tower.
 
-### Maastricht Railway Station
+## Maastricht Railway Station
 
 The two great 20th century architects of the Netherlands were Dudok (of Hilversum fame) and just a little earlier Hendrik Petrus Berlage.
 
@@ -44,7 +44,7 @@ Although by architect GW van Heukelom, this vast brick edifice was built in 1916
 
 I wanted to draw a Berlage building and this seemed to fit the bill. We also went to the Kunstmuseum in Den Haag, which is proper Berlage, and I shall endeavour to get around to drawing that.
 
-### Church Spires
+## Church Spires
 
 I had seen this a couple of times in the Netherlands - simply huge church spires and steeples. Much taller than anything you would get outside a major cathedral in Britain, and generally made of an awful lot of bricks.
 
