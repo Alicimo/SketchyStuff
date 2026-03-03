@@ -24,3 +24,28 @@ This library was originally designed to be part of a modernist civic centre comp
 Gillespie, Kidd & Coia, 1968-70. Grade B Listed.
 
 Set among the fine Victorian and Edwardian sandstone of Glasgow's city centre, this was designed as the BOAC (a constituent part of British Airways) office and travel centre, and rather stands out with its steelwork and copper cladding. It is now a clothing shop. A decent, regular, usable building (unlike the Mackintosh Lighthouse building in the vennel behind it). On a busy street, this will always find a use. Despite being almost 60 years old, the building still looks good; I'm glad we have got it.
+
+
+## Sunderland Civic Centre (demolished 2022)
+
+Spence, Bonnington & Collins, 1965.
+
+An absolutely vast lump of a building, designed in 1965 by Sir Basil Spence and opened in 1970 by Princess Margaret. It housed all the functions required for a council, from meeting rooms and wedding suites to places to pay your taxes and rent. There was even a nuclear shelter (I was told) in the basement. Inside, the workers got grey melamine laminate walls and orange nylon carpet; the mayor got Columbian pine on the walls, Hille furniture, and Herman Miller pieces. There was a car park which was a bit of a rabbit warren; a security guard I met said it was the place for drug dealers to do their business. The Civic Centre was never listed, and perhaps it was too big to survive; it went for housing eventually. Perhaps this building could have been saved, maybe as part of the university, but this is all history now.
+
+I visited the Centre a couple of times. The stairs approaching the centre were wonderful; there was a signature Spence spiral staircase in the canteen at the back, and everything was hexagonal. Spence seemed to like hexagons, for example in the Scottish Widows Building in Edinburgh, now also threatened with demolition.
+
+## St Gabriel's Church, Prestonpans (RC)
+
+Alison, Hutchison and Partners, 1965. Grade B Listed.
+
+Unusual, roundish church in a former mining and salt-panning village to the east of Edinburgh, with some unusual features (possibly described as flaws). One might be the lack of windows; the main natural light comes from the narrow strip of glazing at floor level, and outside are shallow ponds (now empty) designed to reflect light into the windows.
+
+There are not a huge number of circular churches in Scotland; in Whitburn and Livingston, for example. Probably not easy to build or furnish, but an interesting concept. There is an old octagonal church in the back of Falkirk; the idea was that there were no corners for the Devil to hide in.
+
+## Anderston Kelvingrove Parish Church (The Pyramid), Glasgow (Church of Scotland)
+
+Honeyman, Jack and Robertson, 1968. Grade B Listed.
+
+This is a big church with twenty-two rooms. In 2020, the community received money from the Scottish Land Fund and 1.1 million pounds from the National Lottery to turn the building into a community hub.
+
+I cannot say I have been inside to see the "wonderful spaces". I did try, but the man on reception was too busy eating his lunch to be helpful. There are lots of community activities going on, and a youth theatre, so I hope the place succeeds; there is a lot of space to fill.
